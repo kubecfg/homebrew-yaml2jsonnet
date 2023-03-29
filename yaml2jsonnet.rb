@@ -1,8 +1,8 @@
 class Yaml2jsonnet < Formula
   desc "Your software description"
   homepage "https://github.com/kubecfg/yaml2jsonnet"
-  url "https://github.com/kubecfg/yaml2jsonnet/releases/download/v0.1.0/yaml2jsonnet"
-  sha256 "999ba344ff51ba801cb9bace038ff167788475a3d4055dc38452e8765f187f04"
+  url "https://github.com/kubecfg/yaml2jsonnet/releases/download/v0.2.0/yaml2jsonnet"
+  sha256 "f46d33f3bb44745ba09154df32cf3067c13ce59f01f434341a8a9026a36116b8"
   version "0.1.0"
 
   def install
